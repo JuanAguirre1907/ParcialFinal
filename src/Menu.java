@@ -19,7 +19,6 @@ public class Menu {
             try {
                 opcion = scanner.nextInt();
             } catch (InputMismatchException ex) {
-                ex.printStackTrace();
                 opcion = -1;
             }
             scanner.nextLine();

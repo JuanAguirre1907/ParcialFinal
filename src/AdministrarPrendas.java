@@ -184,22 +184,4 @@ public class AdministrarPrendas {
         }
         return existe;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

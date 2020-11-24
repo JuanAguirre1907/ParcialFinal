@@ -22,7 +22,6 @@ public class Prenda {
         this.color = atributos[2];
         this.precio = Double.parseDouble(atributos[3]);
         this.descripcion = atributos[4];
-
     }
 
     public String getNombre() {
