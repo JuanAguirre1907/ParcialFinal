@@ -43,6 +43,5 @@ public class Menu {
                     System.out.println("Esta opcion no es válida");
             }
         } while (opcion != 5);
-
     }
 }
